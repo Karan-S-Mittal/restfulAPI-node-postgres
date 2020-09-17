@@ -42,7 +42,7 @@ Execute these commands one by one to in <strong>psql shell</strong>.
     INSERT INTO users (name, email)
     VALUES ('Karan', 'karan@example.com'), ('Shyam', 'shyam@example.com'), ('Ali', 'Ali@example.com');
     ```
-> pro tip: if you found errors in the code above, check your commas. postgreSQL takes <b>'</b> and not <b>"</b>.
+> pro tip: if you found errors in the code above, check your commas. postgreSQL takes `'` and not `"`.
 
 
 # Author
